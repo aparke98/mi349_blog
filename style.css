@@ -1,0 +1,43 @@
+html {
+background: #dbdfdd
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(180, 218, 230);
+    margin: 40px;
+    padding: 40px;
+    color: #242424;
+    border-top: 10px solid #242424;
+}
+
+h1 {
+font-size: 3em;
+margin: 0;
+}
+
+p {
+line-height: 1.4em;
+}
+
+h2 {
+line-height: 1.4em;
+}
+
+#blog {
+    border-top: 1px dotted rgb(97, 97, 97);
+}
+
+.blog-post {
+    border-bottom: 1px dotted #rgb(97, 97, 97);
+}
+
+td {
+    color:#6b6a6d
+}
+tr {
+    color: #6b6a6d
+}
+
+img {
+    border: 5px solid #6579ee
+}
